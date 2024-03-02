@@ -1,30 +1,29 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Postdoctoral Fellow
-affiliation: Johns Hopkins University
-affiliation_link: https://cs.jhu.edu/
-affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yyliu (at) cs.jhu.edu
-email2: yliu538 (at) jhu.edu
+title: Junyi Wu
+position: Ph.D. student
+affiliation: Illinois Institute of Technology
+# affiliation_link: https://cs.jhu.edu/
+# affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
+email: jwu125 (at) hawk.iit.edu
+# email2: yliu538 (at) jhu.edu
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
+keywords: junyi wu, wu junyi, junyiwu, wujunyi
 description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+# enable_hopkins_logo: true
 
 # The option is used to show the last update time.
 enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=JlbNwMAAAAAJ&hl=zh-CN&authuser=1
+# cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
+# github_link: https://github.com/yaoyao-liu/
+linkedin: https://www.linkedin.com/in/junyi-wu-82a92b24a/
+twitter: https://twitter.com/JunyiWu81518643
 
 # Images 
 avatar: https://img.yliu.me/avatar.jpg
@@ -32,8 +31,8 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+# footnote: Feel free to use my website's source code.
+# footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
