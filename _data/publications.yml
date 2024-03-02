@@ -8,3 +8,12 @@ main:
     # bibtex: https://bib.yliu.me/arXiv23_1.txt
     # image: https://img.yliu.me/teaser/dst.png
     # notes: Spotlight
+
+  - title: On the Faithfulness of Vision Transformer Explanations
+    authors: <strong>Junyi Wu</strong>, Weitai Kang, Hao Tang, Yuan Hong, Yan Yan
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    # pdf: https://arxiv.org/pdf/2306.08103.pdf
+    # bibtex: https://bib.yliu.me/arXiv23_1.txt
+    # image: https://img.yliu.me/teaser/dst.png
+    # notes: Spotlight
