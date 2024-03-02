@@ -17,6 +17,10 @@ keywords: junyi wu, wu junyi, junyiwu, wujunyi
 # The option is used to show the last update time.
 enable_last_update: false
 
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
 # Links
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=JlbNwMAAAAAJ&hl=zh-CN&authuser=1
