@@ -4,4 +4,3 @@
 
 <ul>
 <li><strong>[Feb 2024]</strong> Two papers about transformer explainability accepted to CVPR 2024.
-</ul>
