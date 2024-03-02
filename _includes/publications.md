@@ -53,8 +53,8 @@
             <abbr class="badge">CVPR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Meta-Transfer Learning for Few-Shot Learning</div>
-      <div class="author">Qianru Sun*, <strong>Yaoyao Liu*</strong>, Tat-Seng Chua, Bernt Schiele <br> (* Equal contribution)</div>
+      <div class="title">Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer</div>
+      <div class="author"><strong>Junyi Wu<\strong>, Bin Duan, Weitai Kang, Hao Tang, Yan Yan<br> </div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
       </div>
   </div>
