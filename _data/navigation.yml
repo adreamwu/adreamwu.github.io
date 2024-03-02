@@ -15,6 +15,7 @@ main:
 
   - title: "Publications"
     url: ./#publications
+    right: true 
 
   #- title: "News"
   #  url: ./#news
