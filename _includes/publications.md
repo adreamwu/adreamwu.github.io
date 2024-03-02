@@ -59,9 +59,6 @@
       </div>
   </div>
 </div>
-</li>
-
-</ol>
 </div>
 
 
