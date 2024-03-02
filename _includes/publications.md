@@ -54,7 +54,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer</div>
-      <div class="author">**Junyi Wu**, Bin Duan, Weitai Kang, Hao Tang, Yan Yan<br>
+      <div class="author"><strong>Junyi Wu<\strong>, Bin Duan, Weitai Kang, Hao Tang, Yan Yan<br>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
       </div>
   </div>
