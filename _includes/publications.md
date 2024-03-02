@@ -47,18 +47,23 @@
 {% endfor %}
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-<!--     <img src="https://img.yliu.me/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1"> -->
-            <abbr class="badge">CVPR</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <!-- <img src="https://img.yliu.me/teaser/MTL_CVPR.png" class="teaser img-fluid z-depth-1"> -->
+      <abbr class="badge">CVPR</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer</div>
-      <div class="author"><strong>Junyi Wu<\strong>, Bin Duan, Weitai Kang, Hao Tang, Yan Yan<br>
-      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
+      <div class="author">
+        <strong>Junyi Wu</strong>, Bin Duan, Weitai Kang, Hao Tang, Yan Yan
+        <br>
       </div>
+      <div class="periodical">
+        <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
+      </div>
+    </div>
   </div>
-</div>
-</div>
+</li>
+
 
 
