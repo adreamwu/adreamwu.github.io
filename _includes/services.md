@@ -1,3 +1,4 @@
+<!--
 <h1 id="services"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Services</h2>
@@ -65,3 +66,4 @@
   <li><a href="http://cjc.ict.ac.cn/"><autocolor>Chinese Journal of Computers</autocolor></a></li>
   -->
 </ul>
+-->
