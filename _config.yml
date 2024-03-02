@@ -26,9 +26,9 @@ linkedin: https://www.linkedin.com/in/junyi-wu-82a92b24a/
 twitter: https://twitter.com/JunyiWu81518643
 
 # Images 
-avatar: https://img.yliu.me/avatar.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/photo.jpg
+# favicon: ./assets/img/favicon.png
+# favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
 # footnote: Feel free to use my website's source code.
