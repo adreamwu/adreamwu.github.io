@@ -46,6 +46,7 @@
 
 {% endfor %}
 
+
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -64,3 +65,25 @@
     </div>
   </div>
 </li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/SaCo" class="teaser img-fluid z-depth-1" alt="SaCo">
+      <abbr class="badge">CVPR</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">On the Faithfulness of Vision Transformer Explanations</div>
+      <div class="author">
+        <strong>Junyi Wu</strong>, Weitai Kang, Hao Tang, Yuan Hong, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+        <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
+      </div>
+    </div>
+  </div>
+</li>
+
+
