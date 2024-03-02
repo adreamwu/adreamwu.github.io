@@ -47,8 +47,8 @@
 {% endfor %}
 
 <li>
-      <div class="pub-row" style="width: 50%; position: relative; padding-right: 15px; padding-left: 15px;">
-      <img src="../assets/img/TokenTM.png" class="teaser img-fluid z-depth-1" alt="Token Transformation Matters" style="width: 50%; height: auto;">
+    <div class="pub-row" style="width: 50%; position: relative; padding-right: 15px; padding-left: 15px;">
+      <img src="../assets/img/TokenTM.png" class="teaser img-fluid z-depth-1" alt="Token Transformation Matters" style="width: auto; height: auto;">
       <abbr class="badge">CVPR</abbr>
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
