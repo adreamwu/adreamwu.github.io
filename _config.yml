@@ -1,6 +1,6 @@
 # Basic Information 
-title: Junyi Wu
-position: Ph.D. student
+title: Junyi Wu (吴俊毅)
+position: Ph.D. Student
 affiliation: Illinois Institute of Technology
 # affiliation_link: https://cs.jhu.edu/
 # affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
@@ -15,7 +15,7 @@ keywords: junyi wu, wu junyi, junyiwu, wujunyi
 # enable_hopkins_logo: true
 
 # The option is used to show the last update time.
-enable_last_update: false
+enable_last_update: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
