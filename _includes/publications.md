@@ -54,9 +54,29 @@
       <abbr class="badge">arXiv</abbr>
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">PTQ4DiT: Post-training Quantization for Diffusion Transformers</div>
+      <div class="author">
+        <strong>Junyi Wu*</strong>, Haoxuan Wang*, Yuzhang Shang, Mubarak Shah, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+        <em>arXiv, May 2024.</em>
+      </div>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/Quest.png" class="teaser img-fluid z-depth-1" alt="Quest">
+      <abbr class="badge">arXiv</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning</div>
       <div class="author">
-        Haoxuan Wang, Yuzhang Shang, Zhihang Yuan, <strong>Junyi Wu<strong>, Yan Yan
+        Haoxuan Wang, Yuzhang Shang, Zhihang Yuan, <strong>Junyi Wu</strong>strong>, Yan Yan
         <br>
       </div>
       <div class="periodical">
