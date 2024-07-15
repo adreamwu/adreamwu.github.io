@@ -50,6 +50,26 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/DQAS.png" class="teaser img-fluid z-depth-1" alt="DQAS">
+      <abbr class="badge">arXiv</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Dataset Quantization with Active Learning based Adaptive Sampling</div>
+      <div class="author">
+        Zhenghao Zhao, Yuzhang Shang, <strong>Junyi Wu</strong>, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+        <em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em>
+      </div>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/PTQ4DIT.png" class="teaser img-fluid z-depth-1" alt="Quest">
       <abbr class="badge">arXiv</abbr>
     </div>
