@@ -51,7 +51,7 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/DQAS.png" class="teaser img-fluid z-depth-1" alt="DQAS">
-      <abbr class="badge">ECCV2024</abbr>
+      <abbr class="badge">ECCV 2024</abbr>
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Dataset Quantization with Active Learning based Adaptive Sampling</div>
@@ -111,7 +111,7 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/TokenTM.png" class="teaser img-fluid z-depth-1" alt="TokenTM">
-      <abbr class="badge">CVPR2024</abbr>
+      <abbr class="badge">CVPR 2024</abbr>
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer</div>
@@ -131,7 +131,7 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/SaCo.png" class="teaser img-fluid z-depth-1" alt="SaCo">
-      <abbr class="badge">CVPR2024</abbr>
+      <abbr class="badge">CVPR 2024</abbr>
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">On the Faithfulness of Vision Transformer Explanations</div>
