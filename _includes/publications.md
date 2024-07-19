@@ -76,7 +76,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">PTQ4DiT: Post-training Quantization for Diffusion Transformers</div>
       <div class="author">
-        <strong>Junyi Wu*</strong>, Haoxuan Wang*, Yuzhang Shang, Mubarak Shah, Yan Yan
+        <u><strong>Junyi Wu*</strong></u>, Haoxuan Wang*, Yuzhang Shang, Mubarak Shah, Yan Yan
         <br>
       </div>
       <div class="periodical">
