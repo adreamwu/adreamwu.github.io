@@ -56,7 +56,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Dataset Quantization with Active Learning based Adaptive Sampling</div>
       <div class="author">
-        Zhenghao Zhao, Yuzhang Shang, <u><strong>Junyi Wu</strong></u>, Yan Yan
+        Zhenghao Zhao, Yuzhang Shang, <strong><u>Junyi Wu</u></strong>, Yan Yan
         <br>
       </div>
       <div class="periodical">
@@ -76,7 +76,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">PTQ4DiT: Post-training Quantization for Diffusion Transformers</div>
       <div class="author">
-        <u><strong>Junyi Wu*</strong></u>, Haoxuan Wang*, Yuzhang Shang, Mubarak Shah, Yan Yan
+        <strong><u>Junyi Wu</u>*</strong>, Haoxuan Wang*, Yuzhang Shang, Mubarak Shah, Yan Yan
         <br>
       </div>
       <div class="periodical">
@@ -96,7 +96,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning</div>
       <div class="author">
-        Haoxuan Wang, Yuzhang Shang, Zhihang Yuan, <u><strong>Junyi Wu</strong></u>, Yan Yan
+        Haoxuan Wang, Yuzhang Shang, Zhihang Yuan, <strong><u>Junyi Wu</u></strong>, Yan Yan
         <br>
       </div>
       <div class="periodical">
@@ -116,7 +116,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer</div>
       <div class="author">
-        <u><strong>Junyi Wu</strong></u>, Bin Duan, Weitai Kang, Hao Tang, Yan Yan
+        <strong><u>Junyi Wu</u></strong>, Bin Duan, Weitai Kang, Hao Tang, Yan Yan
         <br>
       </div>
       <div class="periodical">
@@ -136,7 +136,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">On the Faithfulness of Vision Transformer Explanations</div>
       <div class="author">
-        <u><strong>Junyi Wu</strong></u>, Weitai Kang, Hao Tang, Yuan Hong, Yan Yan
+        <strong><u>Junyi Wu</u></strong>, Weitai Kang, Hao Tang, Yuan Hong, Yan Yan
         <br>
       </div>
       <div class="periodical">
