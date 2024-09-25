@@ -50,6 +50,26 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/PTQ4DIT.png" class="teaser img-fluid z-depth-1" alt="PTQ4DiT">
+      <abbr class="badge">NeurIPS 2024</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">PTQ4DiT: Post-training Quantization for Diffusion Transformers</div>
+      <div class="author">
+        <strong><u>Junyi Wu</u>*</strong>, Haoxuan Wang*, Yuzhang Shang, Mubarak Shah, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+        <em>Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.</em>
+      </div>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/DQAS.png" class="teaser img-fluid z-depth-1" alt="DQAS">
       <abbr class="badge">ECCV 2024</abbr>
     </div>
@@ -61,26 +81,6 @@
       </div>
       <div class="periodical">
         <em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em>
-      </div>
-    </div>
-  </div>
-</li>
-
-
-<li>
-  <div class="pub-row">
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <img src="../assets/img/PTQ4DIT.png" class="teaser img-fluid z-depth-1" alt="Quest">
-      <abbr class="badge">arXiv</abbr>
-    </div>
-    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">PTQ4DiT: Post-training Quantization for Diffusion Transformers</div>
-      <div class="author">
-        <strong><u>Junyi Wu</u>*</strong>, Haoxuan Wang*, Yuzhang Shang, Mubarak Shah, Yan Yan
-        <br>
-      </div>
-      <div class="periodical">
-        <em>arXiv, May 2024.</em>
       </div>
     </div>
   </div>
@@ -110,26 +110,6 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <img src="../assets/img/TokenTM.png" class="teaser img-fluid z-depth-1" alt="TokenTM">
-      <abbr class="badge">CVPR 2024</abbr>
-    </div>
-    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer</div>
-      <div class="author">
-        <strong><u>Junyi Wu</u></strong>, Bin Duan, Weitai Kang, Hao Tang, Yan Yan
-        <br>
-      </div>
-      <div class="periodical">
-        <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
-      </div>
-    </div>
-  </div>
-</li>
-
-
-<li>
-  <div class="pub-row">
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/SaCo.png" class="teaser img-fluid z-depth-1" alt="SaCo">
       <abbr class="badge">CVPR 2024</abbr>
     </div>
@@ -146,4 +126,23 @@
   </div>
 </li>
 
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/TokenTM.png" class="teaser img-fluid z-depth-1" alt="TokenTM">
+      <abbr class="badge">CVPR 2024</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer</div>
+      <div class="author">
+        <strong><u>Junyi Wu</u></strong>, Bin Duan, Weitai Kang, Hao Tang, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+        <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
+      </div>
+    </div>
+  </div>
+</li>
 
