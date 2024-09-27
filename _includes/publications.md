@@ -44,6 +44,9 @@
       <div class="periodical">
         <em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em>
       </div>
+      <a href="https://arxiv.org/abs/2407.07268" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Paper </a>
+      <a href="https://github.com/ichbill/DQAS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Code </a>
+      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C14&q=Dataset+Quantization+with+Active+Learning+based+Adaptive+Sampling&btnG=#d=gs_cit&t=1727458837443&u=%2Fscholar%3Fq%3Dinfo%3AwEJCucJ-7xYJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">BibTex </a>
     </div>
   </div>
 </li>
@@ -64,6 +67,9 @@
       <div class="periodical">
         <em>arXiv, Feb. 2024.</em>
       </div>
+      <a href="https://arxiv.org/abs/2402.03666" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Paper </a>
+      <a href="https://github.com/hatchetProject/QuEST" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Code </a>
+      <a href="https://scholar.google.com/scholar?q=QuEST:+Low-bit+Diffusion+Model+Quantization+via+Efficient+Selective+Finetuning&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart#d=gs_cit&t=1727458780245&u=%2Fscholar%3Fq%3Dinfo%3AaV0DbbUKYygJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">BibTex </a>
     </div>
   </div>
 </li>
