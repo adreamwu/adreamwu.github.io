@@ -91,7 +91,7 @@
         <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
       </div>
       <a href="https://arxiv.org/abs/2404.01415" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Paper </a>
-      <a href="https://scholar.google.com/scholar?q=token+transformation+matters:+towards+faithful+post-hoc+explanation+for+vision+transformer&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart#d=gs_cit&t=1727458969373&u=%2Fscholar%3Fq%3Dinfo%3AckRIY2nHNY0J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">BibTex </a>
+      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C14&q=on+the+faithfulness+of+vision+transformer+explanation&btnG=#d=gs_cit&t=1727459212581&u=%2Fscholar%3Fq%3Dinfo%3AIojFgnKe-lsJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">BibTex </a>
     </div>
   </div>
 </li>
