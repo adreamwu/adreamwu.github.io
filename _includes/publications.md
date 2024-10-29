@@ -55,6 +55,28 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/att.png" class="teaser img-fluid z-depth-1" alt="att">
+      <abbr class="badge">arXiv</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">AttBalance: Visual Grounding with Attention-Driven Constraint Balancing</div>
+      <div class="author">
+        Weitai Kang, Luowei Zhou, <strong><u>Junyi Wu</u></strong>, Changchang Sun, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+        <em>arXiv, July 2024.</em>
+      </div>
+      <a href="https://arxiv.org/abs/2407.03243" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Paper </a>
+      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C14&as_vis=1&q=Visual+Grounding+with+Attention-Driven+Constraint+Balancing&btnG=#d=gs_cit&t=1730233253783&u=%2Fscholar%3Fq%3Dinfo%3AYQ42vh1xGB0J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">BibTex </a>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/Quest.png" class="teaser img-fluid z-depth-1" alt="Quest">
       <abbr class="badge">arXiv</abbr>
     </div>
