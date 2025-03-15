@@ -6,6 +6,39 @@
 <ol class="bibliography">
 
 
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/XField.png" class="teaser img-fluid z-depth-1" alt="XField">
+      <abbr class="badge">arXiv</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">X-Field: A Physically Grounded Representation for 3D X-ray Reconstruction</div>
+      <div class="author">
+        Feiran Wang*, Jiachen Tao*, <strong><u>Junyi Wu</u>*</strong>, Haoxuan Wang, Bin Duan, Kai Wang, Zongxin Yang, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+        <em>arXiv, Mar. 2025.</em>
+      </div>
+      <a href="https://arxiv.org/abs/2503.08596" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Paper </a>
+      <a href="https://github.com/Brack-Wang/X-Field" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Code </a>
+      <a href="https://brack-wang.github.io/XField/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Project Page </a>
+      <a href="@misc{wang2025xfieldphysicallygroundedrepresentation,
+      title={X-Field: A Physically Grounded Representation for 3D X-ray Reconstruction}, 
+      author={Feiran Wang and Jiachen Tao and Junyi Wu and Haoxuan Wang and Bin Duan and Kai Wang and Zongxin Yang and Yan Yan},
+      year={2025},
+      eprint={2503.08596},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.08596}, 
+}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">BibTex </a>
+    </div>
+  </div>
+</li>
+
+
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
