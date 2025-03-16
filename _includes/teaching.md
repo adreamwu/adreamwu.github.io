@@ -1,5 +1,5 @@
 <h1 id="teaching"></h1>
-
+<h2>Teaching</h2>
 <ul>
 <li>Instructoryyy, CS 594: Energy-Efficient Deep Learning, University of Illinois Chicago, 2025 Spring</li>
 <li>Teaching Assistant, CS 362: Computer Design, University of Illinois Chicago, 2025 Spring</li>
