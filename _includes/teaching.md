@@ -4,6 +4,12 @@
 
 <ul>
   <li>
+    Teaching Assistant, CS 362: Computer Design, University of Illinois Chicago, 2025 Spring
+  </li>
+</ul>
+
+<ul>
+  <li>
     Teaching Assistant, CS 577: Deep Learning, Illinois Institute of Technology, 2023 Fall
   </li>
 </ul>
