@@ -1,11 +1,14 @@
-<h1 id="news"></h1>
-
-<h2 style="margin: 60px 0px 10px;">News</h2>
-
+<h1 id="teaching"></h1>
+<h2>Teaching</h2>
+ul {
+  margin-top: 0;
+  padding-left: 20px; /* 保持列表的缩进 */
+}
+li {
+  margin-bottom: 5px; /* 控制列表项之间的间距 */
+}
 <ul>
-<li><strong>[Sep 2024]</strong> Our paper on DiT Quantization (PTQ4DiT) accepted to NeurIPS 2024.</li>
-<li><strong>[July 2024]</strong> Our paper on Dataset Quantization (DQAS) accepted to ECCV 2024.</li>
-<li><strong>[Feb 2024]</strong> Our paper on Explanation Faithfulness (SaCo) accepted to CVPR 2024.</li>
-<li><strong>[Feb 2024]</strong> Our paper on Transformer Explainability (TokenTM) accepted to CVPR 2024.</li>
+<li>Instructoryyy, CS 594: Energy-Efficient Deep Learning, University of Illinois Chicago, 2025 Spring</li>
+<li>Teaching Assistant, CS 362: Computer Design, University of Illinois Chicago, 2025 Spring</li>
+<li>Teaching Assistant, CS 577: Deep Learning, Illinois Institute of Technology, 2023 Fall</li>
 </ul>
-
