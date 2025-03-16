@@ -22,18 +22,10 @@
       <div class="periodical">
         <em>arXiv, Mar. 2025.</em>
       </div>
-      <a href="https://arxiv.org/abs/2503.08596" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Paper </a>
-      <a href="https://github.com/Brack-Wang/X-Field" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Code </a>
-      <a href="https://brack-wang.github.io/XField/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">Project Page </a>
-      <a href="@misc{wang2025xfieldphysicallygroundedrepresentation,
-      title={X-Field: A Physically Grounded Representation for 3D X-ray Reconstruction}, 
-      author={Feiran Wang and Jiachen Tao and Junyi Wu and Haoxuan Wang and Bin Duan and Kai Wang and Zongxin Yang and Yan Yan},
-      year={2025},
-      eprint={2503.08596},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.08596}, 
-}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">BibTex </a>
+      <a href="https://arxiv.org/abs/2503.08596" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper] </a>
+      <a href="https://github.com/Brack-Wang/X-Field" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code] </a>
+      <a href="https://brack-wang.github.io/XField/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Project] </a>
+      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C14&q=X-Field%3A+A+Physically+Grounded+Representation+for+3D+X-ray+Reconstruction&btnG=#d=gs_cit&t=1742137322796&u=%2Fscholar%3Fq%3Dinfo%3AxeOgMvijYlQJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[BibTex] </a>
     </div>
   </div>
 </li>
