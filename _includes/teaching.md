@@ -4,6 +4,9 @@
 
 <ul>
   <li>
+    Instructor, CS 594: Energy-Efficient Deep Learning, University of Illinois Chicago, 2025 Spring
+  </li>
+  <li>
     Teaching Assistant, CS 362: Computer Design, University of Illinois Chicago, 2025 Spring
   </li>
   <li>
