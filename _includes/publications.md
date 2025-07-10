@@ -19,10 +19,29 @@
         <br>
       </div>
       <div class="periodical">
-        <em>ACM Multimedia (ACMMM), July 2025.</em>
       </div>
       <a href="https://arxiv.org/abs/2407.03243" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
-      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C14&as_vis=1&q=Visual+Grounding+with+Attention-Driven+Constraint+Balancing&btnG=#d=gs_cit&t=1730233253783&u=%2Fscholar%3Fq%3Dinfo%3AYQ42vh1xGB0J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[BibTex]  </a>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/Quest.png" class="teaser img-fluid z-depth-1" alt="Quest">
+      <abbr class="badge">ICCV 2025</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning</div>
+      <div class="author">
+        Haoxuan Wang, Yuzhang Shang, Zhihang Yuan, <strong><u>Junyi Wu</u></strong>, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+      </div>
+      <a href="https://arxiv.org/abs/2402.03666" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
+      <a href="https://github.com/hatchetProject/QuEST" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code]  </a>
     </div>
   </div>
 </li>
@@ -46,7 +65,6 @@
       <a href="https://arxiv.org/abs/2503.08596" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
       <a href="https://github.com/Brack-Wang/X-Field" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code]  </a>
       <a href="https://brack-wang.github.io/XField/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Project]  </a>
-      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C14&q=X-Field%3A+A+Physically+Grounded+Representation+for+3D+X-ray+Reconstruction&btnG=#d=gs_cit&t=1742137322796&u=%2Fscholar%3Fq%3Dinfo%3AxeOgMvijYlQJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[BibTex]  </a>
     </div>
   </div>
 </li>
@@ -65,11 +83,9 @@
         <br>
       </div>
       <div class="periodical">
-        <em>Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.</em>
       </div>
       <a href="https://arxiv.org/abs/2405.16005" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
       <a href="https://github.com/adreamwu/PTQ4DiT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code]  </a>
-      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C14&q=ptq4dit&btnG=#d=gs_cit&t=1727458435846&u=%2Fscholar%3Fq%3Dinfo%3AKxBBml7SdQoJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[BibTex]  </a>
     </div>
   </div>
 </li>
@@ -88,34 +104,9 @@
         <br>
       </div>
       <div class="periodical">
-        <em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em>
       </div>
       <a href="https://arxiv.org/abs/2407.07268" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
       <a href="https://github.com/ichbill/DQAS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code]  </a>
-      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C14&q=Dataset+Quantization+with+Active+Learning+based+Adaptive+Sampling&btnG=#d=gs_cit&t=1727458837443&u=%2Fscholar%3Fq%3Dinfo%3AwEJCucJ-7xYJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[BibTex]  </a>
-    </div>
-  </div>
-</li>
-
-
-<li>
-  <div class="pub-row">
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <img src="../assets/img/Quest.png" class="teaser img-fluid z-depth-1" alt="Quest">
-      <abbr class="badge">arXiv</abbr>
-    </div>
-    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning</div>
-      <div class="author">
-        Haoxuan Wang, Yuzhang Shang, Zhihang Yuan, <strong><u>Junyi Wu</u></strong>, Yan Yan
-        <br>
-      </div>
-      <div class="periodical">
-        <em>arXiv, Feb. 2024.</em>
-      </div>
-      <a href="https://arxiv.org/abs/2402.03666" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
-      <a href="https://github.com/hatchetProject/QuEST" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code]  </a>
-      <a href="https://scholar.google.com/scholar?q=QuEST:+Low-bit+Diffusion+Model+Quantization+via+Efficient+Selective+Finetuning&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart#d=gs_cit&t=1727458780245&u=%2Fscholar%3Fq%3Dinfo%3AaV0DbbUKYygJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[BibTex]  </a>
     </div>
   </div>
 </li>
@@ -134,11 +125,9 @@
         <br>
       </div>
       <div class="periodical">
-        <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
       </div>
       <a href="https://arxiv.org/abs/2404.01415" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
       <a href="https://github.com/adreamwu/SaCo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code]  </a>
-      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C14&q=on+the+faithfulness+of+vision+transformer+explanation&btnG=#d=gs_cit&t=1727459212581&u=%2Fscholar%3Fq%3Dinfo%3AIojFgnKe-lsJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[BibTex]  </a>
     </div>
   </div>
 </li>
@@ -157,10 +146,8 @@
         <br>
       </div>
       <div class="periodical">
-        <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
       </div>
       <a href="https://arxiv.org/abs/2403.14552" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
-      <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C14&q=Token+Transformation+Matters%3A+Towards+Faithful+Post-hoc+Explanation+for+Vision+Transformer&btnG=#d=gs_cit&t=1727459035450&u=%2Fscholar%3Fq%3Dinfo%3AckRIY2nHNY0J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dzh-CN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[BibTex]  </a>
     </div>
   </div>
 </li>
