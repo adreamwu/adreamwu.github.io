@@ -50,6 +50,27 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/CaO2.png" class="teaser img-fluid z-depth-1" alt="CaO2">
+      <abbr class="badge">ICCV 2025</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">CaO<sub>2</sub>: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation</div>
+      <div class="author">
+        Haoxuan Wang, Zhenghao Zhao, <strong><u>Junyi Wu</u></strong>, Yuzhang Shang, Gaowen Liu, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+      </div>
+      <a href="https://arxiv.org/abs/2506.22637v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
+      <a href="https://github.com/hatchetProject/CaO2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code]  </a>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/XField.png" class="teaser img-fluid z-depth-1" alt="XField">
       <abbr class="badge">arXiv</abbr>
     </div>
