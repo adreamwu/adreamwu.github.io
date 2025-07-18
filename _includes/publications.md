@@ -35,7 +35,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning</div>
       <div class="author">
-        Haoxuan Wang, Yuzhang Shang, Zhihang Yuan, <strong><u>Junyi Wu</u></strong>, Yan Yan
+        Haoxuan Wang, Yuzhang Shang, Zhihang Yuan, <strong><u>Junyi Wu</u></strong>, Junchi Yan, Yan Yan
         <br>
       </div>
       <div class="periodical">
