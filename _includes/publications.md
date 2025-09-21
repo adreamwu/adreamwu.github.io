@@ -31,6 +31,44 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/OriGS.png" class="teaser img-fluid z-depth-1" alt="OriGS">
+      <abbr class="badge">NeurIPS 2025</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"></div>
+      <div class="author">
+        <strong><u>Junyi Wu</u>*</strong>, Jiachen Tao, Haoxuan Wang, Gaowen Liu, Ramana Rao Kompella, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+      </div>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/VLDD.png" class="teaser img-fluid z-depth-1" alt="VLDD">
+      <abbr class="badge">NeurIPS 2025</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Efficient Multimodal Dataset Distillation via Generative Models</div>
+      <div class="author">
+        Zhenghao Zhao, Haoxuan Wang, <strong><u>Junyi Wu</u>*</strong>, Yuzhang Shang, Gaowen Liu, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+      </div>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/att.png" class="teaser img-fluid z-depth-1" alt="att">
       <abbr class="badge">ACMMM 2025</abbr>
     </div>
