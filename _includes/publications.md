@@ -37,7 +37,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Orientation-anchored Hyper-Gaussian for 4D Reconstruction from Casual Videos</div>
       <div class="author">
-        <strong><u>Junyi Wu</u>*</strong>, Jiachen Tao, Haoxuan Wang, Gaowen Liu, Ramana Rao Kompella, Yan Yan
+        <strong><u>Junyi Wu</u></strong>, Jiachen Tao, Haoxuan Wang, Gaowen Liu, Ramana Rao Kompella, Yan Yan
         <br>
       </div>
       <div class="periodical">
@@ -58,7 +58,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Efficient Multimodal Dataset Distillation via Generative Models</div>
       <div class="author">
-        Zhenghao Zhao, Haoxuan Wang, <strong><u>Junyi Wu</u>*</strong>, Yuzhang Shang, Gaowen Liu, Yan Yan
+        Zhenghao Zhao, Haoxuan Wang, <strong><u>Junyi Wu</u></strong>, Yuzhang Shang, Gaowen Liu, Yan Yan
         <br>
       </div>
       <div class="periodical">
