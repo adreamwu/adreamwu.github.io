@@ -42,6 +42,8 @@
       </div>
       <div class="periodical">
       </div>
+      <a href="https://arxiv.org/abs/2509.23492" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
+      <a href="https://github.com/adreamwu/OriGS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code]  </a>
     </div>
   </div>
 </li>
@@ -61,6 +63,8 @@
       </div>
       <div class="periodical">
       </div>
+      <a href="https://arxiv.org/abs/2509.15472" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
+      <a href="https://github.com/ichbill/EDGE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code]  </a>
     </div>
   </div>
 </li>
