@@ -35,7 +35,7 @@
       <abbr class="badge">NeurIPS 2025</abbr>
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"></div>
+      <div class="title">Orientation-anchored Hyper-Gaussian for 4D Reconstruction from Casual Videos</div>
       <div class="author">
         <strong><u>Junyi Wu</u>*</strong>, Jiachen Tao, Haoxuan Wang, Gaowen Liu, Ramana Rao Kompella, Yan Yan
         <br>
