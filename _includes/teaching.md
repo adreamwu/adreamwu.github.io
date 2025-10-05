@@ -4,8 +4,6 @@
 
 
 
-Instructor, CS 594: Energy-Efficient Deep Learning, University of Illinois Chicago, 2025 Spring
+Guest Instructor, CS 594: Energy-Efficient Deep Learning, University of Illinois Chicago
 
-Teaching Assistant, CS 362: Computer Design, University of Illinois Chicago, 2025 Spring
-
-Teaching Assistant, CS 577: Deep Learning, Illinois Institute of Technology, 2023 Fall
+Guest Instructor, CS 577: Deep Learning, Illinois Institute of Technology
