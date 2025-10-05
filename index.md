@@ -11,9 +11,8 @@ I am a Ph.D. student in Computer Science advised by Prof. [Yan Yan](https://tomy
 My research interests include **3D Vision, Efficient Visual Generation, and Transformer Explainability**.
 
 
-<span style="color: red; font-weight: bold;">I am actively exploring 2026 Summer Internship opportunities. Feel free to review my resume here.</span>
+<span style="color: red; font-weight: bold;">I am actively exploring 2026 Summer Internship opportunities.</span>
 
-**I am actively exploring 2026 Summer Internship opportunities. Feel free to review my resume here.**
 
 
 <!--
