@@ -8,11 +8,11 @@ layout: homepage
 
 I am a Ph.D. student in Computer Science advised by Prof. [Yan Yan](https://tomyan555.github.io/) at University of Illinois Chicago since 2023 Spring. Before that, I received my bachelor’s degree in Mathematics (Information and Computing Science) from Sun Yat-sen University in 2022.
 
-My research interests include **3D Vision, Efficient Visual Generation, and Transformer Explainability**.
+My research interests include **Embodied AI, 3D Vision, Efficient Visual Generation, and Transformer Explainability**.
 
 
-<span style="color: red; font-weight: bold;">I am actively exploring 2026 Summer Internship opportunities.</span>
-
+<!-- <span style="color: red; font-weight: bold;">I am actively exploring 2026 Summer Internship opportunities.</span>
+ -->
 
 
 <!--
