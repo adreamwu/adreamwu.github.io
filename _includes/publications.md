@@ -9,6 +9,27 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/GPF.png" class="teaser img-fluid z-depth-1" alt="GPF">
+      <abbr class="badge">arXiv</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">From Particles to Fields: Reframing Photon Mapping with Continuous Gaussian Photon Fields</div>
+      <div class="author">
+        Jiachen Tao, Benjamin Planche, Van Nguyen Nguyen, <strong><u>Junyi Wu</u></strong>, Yuchun Liu, Haoxuan Wang, Zhongpai Gao, Gengyu Zhang, Meng Zheng, Feiran Wang, Anwesa Choudhuri, Zhenghao Zhao, Weitai Kang, Terrence Chen, Yan Yan, Ziyan Wu
+        <br>
+      </div>
+      <div class="periodical">
+      </div>
+      <a href="https://arxiv.org/abs/2512.12459" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
+      <a href="https://tlxhlll.github.io/gaussian-photon-field/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Project]  </a>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/CIF.png" class="teaser img-fluid z-depth-1" alt="CIF">
       <abbr class="badge">CVPR 2026</abbr>
     </div>
