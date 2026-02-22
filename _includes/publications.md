@@ -6,6 +6,28 @@
 <ol class="bibliography">
 
 
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/Motion.png" class="teaser img-fluid z-depth-1" alt="Motion">
+      <abbr class="badge">arXiv</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Motion Marionette: Rethinking Rigid Motion Transfer via Prior Guidance</div>
+      <div class="author">
+        Haoxuan Wang, Jiachen Tao, <strong><u>Junyi Wu</u></strong>, Gaowen Liu, Ramana Rao Kompella, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+      </div>
+      <a href="https://arxiv.org/abs/2511.19909" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
+    </div>
+  </div>
+</li>
+
+
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
