@@ -6,6 +6,28 @@
 <ol class="bibliography">
 
 
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/CogniMap3D.png" class="teaser img-fluid z-depth-1" alt="CogniMap3D">
+      <abbr class="badge">ICLR 2026</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval</div>
+      <div class="author">
+        Feiran Wang, <strong><u>Junyi Wu</u></strong>, Dawen Cai, Yuan Hong, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+      </div>
+      <a href="https://arxiv.org/abs/2601.08175" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
+      <a href="https://github.com/Brack-Wang/cognimap3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Code]  </a>
+    </div>
+  </div>
+</li>
+
+
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
