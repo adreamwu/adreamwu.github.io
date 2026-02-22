@@ -6,6 +6,26 @@
 <ol class="bibliography">
 
 
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/CIF.png" class="teaser img-fluid z-depth-1" alt="CIF">
+      <abbr class="badge">CVPR 2026</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Consistent Instance Field for Dynamic Scene Understanding</div>
+      <div class="author">
+        <strong><u>Junyi Wu</u></strong>, Van Nguyen Nguyen, Benjamin Planche, Jiachen Tao, Changchang Sun, Zhongpai Gao, Zhenghao Zhao, Anwesa Choudhuri, Gengyu Zhang, Meng Zheng, Feiran Wang, Terrence Chen, Yan Yan, Ziyan Wu
+        <br>
+      </div>
+      <div class="periodical">
+      </div>
+      <a href="https://arxiv.org/pdf/2512.14126" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
+      <a href="https://adreamwu.github.io/Consistent-Instance-Field/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Project]  </a>
+    </div>
+  </div>
+</li>
+
 
 <li>
   <div class="pub-row">
