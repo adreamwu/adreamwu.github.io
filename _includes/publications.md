@@ -20,7 +20,7 @@
       </div>
       <div class="periodical">
       </div>
-      <a href="https://arxiv.org/pdf/2512.14126" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
+      <a href="https://arxiv.org/abs/2512.14126" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
       <a href="https://adreamwu.github.io/Consistent-Instance-Field/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Project]  </a>
     </div>
   </div>
