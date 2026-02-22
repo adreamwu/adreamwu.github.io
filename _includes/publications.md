@@ -9,6 +9,26 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="../assets/img/TraceFlow.png" class="teaser img-fluid z-depth-1" alt="TraceFlow">
+      <abbr class="badge">arXiv</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">TraceFlow: Dynamic 3D Reconstruction of Specular Scenes Driven by Ray Tracing</div>
+      <div class="author">
+          Jiachen Tao, <strong><u>Junyi Wu</u></strong>, Haoxuan Wang, Zongxin Yang, Dawen Cai, Yan Yan
+        <br>
+      </div>
+      <div class="periodical">
+      </div>
+      <a href="https://arxiv.org/abs/2512.10095" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:16px;">[Paper]  </a>
+    </div>
+  </div>
+</li>
+
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/GPF.png" class="teaser img-fluid z-depth-1" alt="GPF">
       <abbr class="badge">arXiv</abbr>
     </div>
