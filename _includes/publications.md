@@ -32,10 +32,10 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="../assets/img/TraceFlow.png" class="teaser img-fluid z-depth-1" alt="TraceFlow">
-      <abbr class="badge">arXiv</abbr>
+      <abbr class="badge">ICML 2026</abbr>
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">TraceFlow: Dynamic 3D Reconstruction of Specular Scenes Driven by Ray Tracing</div>
+      <div class="title">ReflFlow: Learning Geometry-Guided Ray Tracing for Dynamic Specular Reconstruction</div>
       <div class="author">
           Jiachen Tao, <strong><u>Junyi Wu</u></strong>, Haoxuan Wang, Zongxin Yang, Dawen Cai, Yan Yan
         <br>
