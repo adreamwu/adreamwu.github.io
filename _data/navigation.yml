@@ -1,24 +1,7 @@
 main:
-
-  # - title: "Contact"
-    # url: ./#contact 
-    # right: true 
-
-  #- title: "Services"
-  #  url: ./#services
-
-  #- title: "Talks"
-  #  url: ./#invited-talks
-
-  #- title: "Teaching"
-  #  url: ./#teaching
-
+  - title: "About"
+    url: "#about"
   - title: "Publications"
-    url: ./#publications
-    right: true 
-
-  #- title: "News"
-  #  url: ./#news
-
-  - title: "Bio"
-    url: ./#about-me
+    url: "#publications"
+  - title: "Teaching"
+    url: "#teaching"

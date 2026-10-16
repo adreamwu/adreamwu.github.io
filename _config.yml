@@ -1,10 +1,10 @@
 # Basic Information 
-title: Junyi (Jeremy) Wu
+title: Junyi Wu
 position: Ph.D. Student
 affiliation: University of Illinois Chicago
 # affiliation_link: https://cs.jhu.edu/
 # affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: jwu834@uic.edu wujunyi1206@outlook.com
+email: wujunyi1206@outlook.com
 # email2: yliu538 (at) jhu.edu
 
 # Search Engine Optimization (SEO)
@@ -46,6 +46,9 @@ clustrmaps_id: hykHlWP_9xlDi0T-CyLQFzMdTdsSEfbj4ka9BQykUv4
 # The following files will be removed from the generated website.
 exclude:
   - build.sh
+  - preview.sh
+  - Gemfile.preview
+  - Gemfile.preview.lock
   - Gemfile
   - Gemfile.lock
   - README.md
