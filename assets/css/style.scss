@@ -19,7 +19,7 @@ img { max-width: 100%; display: block; }
 a { color: var(--fg); text-decoration: underline; text-decoration-color: var(--muted); text-decoration-thickness: 1px; text-underline-offset: 3px; }
 a:hover { color: var(--accent); text-decoration-color: var(--accent); }
 
-.page { width: calc(100% - 40px); max-width: 800px; margin: 0 auto; padding: 56px 0 48px; }
+.page { width: calc(100% - 40px); max-width: 960px; margin: 0 auto; padding: 56px 0 48px; }
 
 /* header */
 .top-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; }
@@ -43,7 +43,7 @@ ul.plain li { display: flex; justify-content: space-between; align-items: baseli
 ol.bibliography { list-style: none; margin: 0; padding: 0; }
 ol.bibliography > li { padding: 16px 0; }
 ol.bibliography > li + li { border-top: 1px solid var(--line); }
-.pub-row { display: grid; grid-template-columns: 240px 1fr; gap: 24px; align-items: start; }
+.pub-row { display: grid; grid-template-columns: 280px 1fr; gap: 28px; align-items: start; }
 .zoom { display: block; border: 0; cursor: zoom-in; }
 .teaser { width: 100%; height: auto; border-radius: 4px; border: 1px solid var(--line); background: #fff; }
 .title { font-weight: 600; line-height: 1.4; }
